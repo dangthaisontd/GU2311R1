@@ -8,6 +8,7 @@ class Program
     {
         DateTime localTime = DateTime.Now;
         Console.WriteLine("Thoi gian hien tai la: " + localTime);
+        Console.WriteLine("Bai nay laf bai au tien");
     }
 }
 }
