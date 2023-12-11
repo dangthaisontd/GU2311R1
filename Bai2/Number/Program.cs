@@ -68,9 +68,9 @@ public class Program
         Write_Value(dv);
       }
     }
-   private static void Write_Value(int temp)
+   private static void Write_Value(int a)
     {
-        switch (temp)
+        switch (a)
         {     
             case 1: Console.WriteLine("Mot");
             break;
