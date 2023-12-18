@@ -10,3 +10,10 @@
          }
     }
 }
+
+
+//instantiace(bullet); //20 vien 
+//Bullet.setactive(false);
+//Bullet.setactive(false);
+//Bullet.setactive(false);
+//Bullet.setactive(false);
